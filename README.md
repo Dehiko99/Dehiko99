@@ -17,11 +17,11 @@ width="200"
 height="200" />
 
 <img src = "/images/qlik.png"
-width="300" 
-height="300" />
+width="250" 
+height="250" />
 <img src = "/images/seaborn.png"
-width="300" 
-height="300" />
+width="250" 
+height="250" />
 <img src = "/images/canva.jpg"
-width="300" 
-height="300" />
+width="250" 
+height="250" />
