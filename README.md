@@ -34,5 +34,8 @@ height="250" />
 width="230" 
 height="230" />
 
-Connect with me:
 
+Connect with me:
+<a href = "https://www.linkedin.com/feed/"> < img src = "/images/linkedin.png"
+width="200" 
+height="200" />
