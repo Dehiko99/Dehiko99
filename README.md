@@ -14,7 +14,7 @@ My competencies:
 
 
 
-<img src = "/images/R_image.png"
+<a href="https://www.r-project.org/"><img src = "/images/R_image.png"
 width="200" 
 height="200" />
 <img src = "/images/python.png"
