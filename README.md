@@ -5,9 +5,14 @@ I am a Data Analyst from Treviso, Italy
 width=600 />
 
 📖 Data Analytics for Business & Society at Ca' Foscari, University of Venice
+
 📫 How to reach me: albertobarbesin99@gmail.com
 
+
+
 My competencies:
+
+
 
 <img src = "/images/R_image.png"
 width="200" 
