@@ -6,6 +6,10 @@ I am a Data Analyst from Treviso, Italy
 
 My competencies:
 
+<img src = "/images/R_image.png"
+width="200" 
+height="200" />
+
 
 ![Image Alt text](/images/R_image.png)
 ![Image Alt text](/images/python.png)
