@@ -12,4 +12,4 @@ My competencies:
 ![Image Alt text](/images/pandas.png)
 ![Image Alt text](/images/seaborn.png)
 ![Image Alt text](/images/qlik.png)
-![Image Alt text](/images/canva.png)
+![Image Alt text](/images/canva.jpg)
