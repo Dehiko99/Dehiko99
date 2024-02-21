@@ -7,7 +7,7 @@ I am a Data Analyst from Treviso, Italy
 My competencies:
 
 
-![Image Alt text](/images/R_image.png) 
+![Image Alt text](/images/R_image.png)
 ![Image Alt text](/images/python.png)
 ![Image Alt text](/images/pandas.png)
 ![Image Alt text](/images/seaborn.png)
