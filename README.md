@@ -9,12 +9,18 @@ My competencies:
 <img src = "/images/R_image.png"
 width="200" 
 height="200" />
-
-
-![Image Alt text](/images/R_image.png)
-![Image Alt text](/images/python.png)
-![Image Alt text](/images/pandas.png)
-
-![Image Alt text](/images/seaborn.png)
-![Image Alt text](/images/qlik.png)
-![Image Alt text](/images/canva.jpg)
+<img src = "/images/python.png"
+width="200" 
+height="200" />
+<img src = "/images/pandas.png"
+width="200" 
+height="200" />
+<img src = "/images/qlik.png"
+width="200" 
+height="200" />
+<img src = "/images/seaborn.png"
+width="200" 
+height="200" />
+<img src = "/images/canva.jpg"
+width="200" 
+height="200" />
