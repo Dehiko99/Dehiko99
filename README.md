@@ -17,19 +17,19 @@ My competencies:
 <a href="https://www.r-project.org/"><img src = "/images/R_image.png"
 width="200" 
 height="200" />
-<img src = "/images/python.png"
+<a href = "https://www.python.org/"><img src = "/images/python.png"
 width="300" 
 height="200" />
-<img src = "/images/pandas.png"
+<a href = "https://www.pandas.pydata.org/"><img src = "/images/pandas.png"
 width="200" 
 height="200" />
 
-<img src = "/images/qlik.png"
+<a href = "https://https://www.qlik.org/"><img src = "/images/qlik.png"
 width="250" 
 height="250" />
-<img src = "/images/seaborn.png"
+<a href = "https://seaborn.pydata.org/"><img src = "/images/seaborn.png"
 width="250" 
 height="250" />
-<img src = "/images/canva.jpg"
+<a href = "https://www.canva.com/"><img src = "/images/canva.jpg"
 width="230" 
 height="230" />
