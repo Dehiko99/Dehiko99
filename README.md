@@ -1,8 +1,11 @@
 # Hi!👋 I am Alberto Barbesin
 I am a Data Analyst from Treviso, Italy
 
-![Image Alt text](/images/castelfranco.png)
+<img src = "/images/castelfranco.png"
+width=600 />
 
+📖 Data Analytics for Business & Society at Ca' Foscari, University of Venice
+📫 How to reach me: albertobarbesin99@gmail.com
 
 My competencies:
 
