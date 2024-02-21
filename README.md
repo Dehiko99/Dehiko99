@@ -20,7 +20,7 @@ height="200" />
 <a href = "https://www.python.org/"><img src = "/images/python.png"
 width="300" 
 height="200" />
-<a href = "https://www.pandas.pydata.org/"><img src = "/images/pandas.png"
+<a href = "https://pandas.pydata.org/"><img src = "/images/pandas.png"
 width="200" 
 height="200" />
 
