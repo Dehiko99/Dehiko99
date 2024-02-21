@@ -38,6 +38,6 @@ height="230" />
 Connect with me:
 
 
-<a href = "https://www.linkedin.com/feed/"> <img src = "/images/linkedin.png"
+<a href = "https://www.linkedin.com/in/alberto-barbesin-35aa91295/"> <img src = "/images/linkedin.png"
 width="200" 
 height="200" />
