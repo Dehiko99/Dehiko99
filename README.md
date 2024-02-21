@@ -24,7 +24,7 @@ height="200" />
 width="200" 
 height="200" />
 
-<a href = "https://https://www.qlik.org/"><img src = "/images/qlik.png"
+<a href = "https://www.qlik.org/"><img src = "/images/qlik.png"
 width="250" 
 height="250" />
 <a href = "https://seaborn.pydata.org/"><img src = "/images/seaborn.png"
