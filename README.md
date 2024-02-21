@@ -24,4 +24,4 @@ width="250"
 height="250" />
 <img src = "/images/canva.jpg"
 width="230" 
-height="250" />
+height="230" />
