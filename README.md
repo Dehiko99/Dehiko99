@@ -10,7 +10,7 @@ My competencies:
 width="200" 
 height="200" />
 <img src = "/images/python.png"
-width="200" 
+width="300" 
 height="200" />
 <img src = "/images/pandas.png"
 width="200" 
