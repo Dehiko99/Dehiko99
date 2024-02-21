@@ -2,4 +2,4 @@
 I am a Data Analyst from Treviso, Italy
 
 My competencies:
-![Image Alt text](/images/.jpg
+![Image Alt text](/images/R_image.jpg)
