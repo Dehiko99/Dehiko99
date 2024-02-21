@@ -33,3 +33,6 @@ height="250" />
 <a href = "https://www.canva.com/"><img src = "/images/canva.jpg"
 width="230" 
 height="230" />
+
+Connect with me:
+
