@@ -1,5 +1,5 @@
 # Hi!👋 I am Alberto Barbesin
-I am a Data Analyst from Treviso, Italy
+I am a Data Scientist from Treviso, Italy
 
 <img src = "/images/castelfranco.png"
 width=600 />
